@@ -1,0 +1,1 @@
+This folder contains the logs during training as well as saved checkpoints.
